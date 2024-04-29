@@ -12,6 +12,6 @@ Welcome! My name is <b>ovii</b>, I am from Romania and I'm 16 years old. At the 
 
 
 <details>
-  <summary>github stats 🥇</summary>
+  <summary>github stats 🥇</summary> <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23ovii&layout=compact&theme=shadow_blue">
 </details>
