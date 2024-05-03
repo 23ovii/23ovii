@@ -1,5 +1,5 @@
 ### hello world👋🏻
-Welcome! My name is <b>ovii</b>, I am from Romania 🇷🇴 and I'm 16 years old. At the moment I'm in school and in my free time I am learning to code, editing or gaming.
+Welcome! My name is <b>ovii</b>, I am from Romania 🇷🇴 and I'm 16 years old. At the moment I'm in high-school and in my free time I am learning to code, editing or gaming.
 
 [![SkillIcons](https://skillicons.dev/icons?i=vscode,cpp,html,css,ps,discord,gmail,twitter,github&perline=5)](https://skillicons.dev)
 
