@@ -3,6 +3,8 @@ Welcome! My name is <b>ovii</b>, I am from Romania 🇷🇴 and I'm 16 years old
 
 [![SkillIcons](https://skillicons.dev/icons?i=vscode,cpp,html,css,ps,discord,gmail,twitter,github&perline=5)](https://skillicons.dev)
 
+[![Discord Presence](https://lanyard.kyrie25.me/api/612327579487305745)](https://discord.com/users/612327579487305745)
+
 ![status](https://api.statusbadges.me/badge/status/612327579487305745?simple=true)
 ![playing](https://api.statusbadges.me/badge/playing/612327579487305745)
 ![vscode](https://api.statusbadges.me/badge/vscode/612327579487305745)
