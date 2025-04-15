@@ -9,7 +9,7 @@ Welcome! My name is <b>ovii</b>, I am from Romania 🇷🇴 and I'm 17 years old
 ![vscode](https://api.statusbadges.me/badge/vscode/612327579487305745)
 [![spotify](https://api.statusbadges.me/badge/spotify/612327579487305745)](https://api.statusbadges.me/openspotify/612327579487305745)
 
-<!--[![Discord Presence](https://api.lanyard.rest/v1/users/612327579487305745)](https://discord.com/users/612327579487305745)-->
+[![Discord Presence][(https://lanyard.cnrad.dev/api/)612327579487305745)](https://discord.com/users/612327579487305745)
 
 
 <details>
