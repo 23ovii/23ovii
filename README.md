@@ -13,5 +13,7 @@ Welcome! My name is <b>ovii</b>, I am from Romania 🇷🇴 and I'm 17 years old
 
 <details>
   <summary>github stats 🥇</summary> <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23ovii&layout=compact&theme=shadow_blue">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=23ovii&show_icons=true&theme=tokyonight">
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23ovii&layout=compact&theme=tokyonight">
+<!-- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@23ovii"> -->
 </details>
