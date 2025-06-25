@@ -1,7 +1,7 @@
 ### hello world👋🏻
 Welcome! My name is <b>ovii</b>, I am from Romania 🇷🇴 and I'm 17 years old. At the moment I'm in high-school and in my free time I am learning to code, editing or gaming.
 
-[![SkillIcons](https://skillicons.dev/icons?i=vscode,cpp,html,css,ps,discord,gmail,twitter,github&perline=5)](https://skillicons.dev)
+[![SkillIcons](https://skillicons.dev/icons?i=vscode,cpp,js,html,css,tailwind,git,ps,github,vercel,windows,mint&perline=5)](https://skillicons.dev)
 
 
 ![status](https://api.statusbadges.me/badge/status/612327579487305745?simple=true)
