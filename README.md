@@ -1,15 +1,22 @@
 ### hello world👋🏻
-Welcome! My name is <b>ovii</b>, I am from Romania 🇷🇴 and I'm 17 years old. At the moment I'm in high-school and in my free time I am learning to code, editing or gaming.
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind"></br>
+    <img src="https://skillicons.dev/icons?i=cpp,js,git,python"></br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,vercel,windows,linux">
+  </a>
+</p>
 
-[![SkillIcons](https://skillicons.dev/icons?i=vscode,cpp,js,html,css,tailwind,git,ps,github,vercel,windows,mint&perline=5)](https://skillicons.dev)
 
 
-![status](https://api.statusbadges.me/badge/status/612327579487305745?simple=true)
-![playing](https://api.statusbadges.me/badge/playing/612327579487305745)
-![vscode](https://api.statusbadges.me/badge/vscode/612327579487305745)
-[![spotify](https://api.statusbadges.me/badge/spotify/612327579487305745)](https://api.statusbadges.me/openspotify/612327579487305745)
+<p align="center">
+  <img src="https://api.statusbadges.me/badge/status/612327579487305745?simple=true">
+  <img src="https://api.statusbadges.me/badge/playing/612327579487305745">
+  <img src="https://api.statusbadges.me/badge/vscode/612327579487305745">
+  <img src="https://api.statusbadges.me/badge/spotify/612327579487305745">
+</p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/612327579487305745)](https://discord.com/users/612327579487305745)
+
 
 <details>
   <summary>github stats 🥇</summary> <br>
