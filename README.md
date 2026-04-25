@@ -19,6 +19,6 @@
   <br>
   
   [![wakatime](https://wakatime.com/badge/user/0ecf21c2-9d6b-43c6-920e-eef4300ba43c.svg)](https://wakatime.com/@0ecf21c2-9d6b-43c6-920e-eef4300ba43c) <br>
-  <img height="140" src="https://github-readme-stats-rho-teal-6db1hyvwj2.vercel.app/api?username=23ovii&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca"> 
-  <img src="https://github-readme-stats-rho-teal-6db1hyvwj2.vercel.app/api/top-langs/?username=23ovii&layout=compact&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca">
+  <img height="140" src="github-readme-stats-oviiprojects.vercel.app/api?username=23ovii&show_icons=true&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca"> 
+  <img src="github-readme-stats-oviiprojects.vercel.app/api/top-langs/?username=23ovii&layout=compact&bg_color=24273a&text_color=cad3f5&icon_color=c6a0f6&title_color=8bd5ca">
 </details>
